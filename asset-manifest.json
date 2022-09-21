@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tomrolfe20/linkedinclone/static/css/main.7907aa9a.css",
+    "main.js": "/tomrolfe20/linkedinclone/static/js/main.47eb7141.js",
+    "index.html": "/tomrolfe20/linkedinclone/index.html",
+    "main.7907aa9a.css.map": "/tomrolfe20/linkedinclone/static/css/main.7907aa9a.css.map",
+    "main.47eb7141.js.map": "/tomrolfe20/linkedinclone/static/js/main.47eb7141.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7907aa9a.css",
+    "static/js/main.47eb7141.js"
+  ]
+}
